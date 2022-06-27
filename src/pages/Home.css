@@ -1,0 +1,17 @@
+h1 {
+  text-align: start;
+  margin-left: 80px;
+  color: black;
+  font-size: 32px
+}
+
+p {
+
+  text-decoration: none !important;
+  text-align: start;
+  margin-left: 80px;
+  margin-right: 80px;
+  color:gray;
+  font-size: 12px;
+  margin-bottom: 20px
+}

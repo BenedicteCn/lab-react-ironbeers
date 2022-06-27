@@ -1,0 +1,14 @@
+.card {
+
+  display: flex;
+
+}
+
+img {
+
+  height: 100px
+}
+
+.beers {
+  margin-left: 100px;
+}
